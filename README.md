@@ -1,2 +1,2 @@
 # temperature_sensor_dallas
-medicion de temperatura con un dallas
+## medicion de temperatura usando un sensor dallas con arduino
